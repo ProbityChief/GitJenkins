@@ -6,9 +6,8 @@ public class Principale {
 		int i = 0;
 		while (i < 10)
 		{
-			System.out.println("HelloWord");
+			System.out.println("HelloWord 2 ... " + i);
 			i++;
 		}
 	}
-
 }
